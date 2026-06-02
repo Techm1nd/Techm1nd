@@ -12,6 +12,8 @@ Currently preparing for PL-300 certification.
 | Power BI | Intermediate |
 | Excel | Advanced |
 | Tableau | Learning |
+| Python | Learning |
+| R | Learning |
 
 ## 📂 Featured Projects
 - 🛒 [Sales Dashboard](link) — Power BI dashboard analyzing 
