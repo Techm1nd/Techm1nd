@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ahmad 👋
 
-<!--
-**Techm1nd/Techm1nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Power BI • SQL • Tableau • Excel
 
-Here are some ideas to get you started:
+I turn messy data into clear business decisions.
+Currently preparing for PL-300 certification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+| Tool | Level |
+|------|-------|
+| SQL | Intermediate |
+| Power BI | Intermediate |
+| Excel | Advanced |
+| Tableau | Learning |
+
+## 📂 Featured Projects
+- 🛒 [Sales Dashboard](link) — Power BI dashboard analyzing 
+  retail performance
+- 👥 [Customer Segmentation](link) — SQL analysis of 
+  customer behavior
+- 📊 [HR Analytics](link) — Tableau dashboard for workforce insights
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ahmad-data-analytic/
+- Email: ahmadjeager@gmail.com
